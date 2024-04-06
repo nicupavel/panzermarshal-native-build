@@ -37,7 +37,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          name: nicupavel/panzermarshal
+          repository: nicupavel/panzermarshal
           path: frontend/src
 
       - name: Build wails
