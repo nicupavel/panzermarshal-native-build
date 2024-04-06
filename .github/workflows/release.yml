@@ -17,13 +17,13 @@ jobs:
       fail-fast: false
       matrix:
         build:
-          - name: 'Panzer Marshal'
+          - name: 'PanzerMarshal'
             platform:  'linux/amd64'
             os: 'ubuntu-latest'
-          - name: 'Panzer Marshal'
+          - name: 'PanzerMarshal'
             platform:  'windows/amd64'
             os: 'windows-latest'
-          - name: 'Panzer Marshal'
+          - name: 'PanzerMarshal'
             platform:  'darwin/universal'
             os: 'macos-latest'
 
