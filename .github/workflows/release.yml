@@ -26,7 +26,7 @@ jobs:
           - name: 'PanzerMarshal_win_64'
             platform:  'windows/amd64'
             os: 'windows-latest'
-          - name: 'PanzerMarshal_macos_universal'
+          - name: 'PanzerMarshal'
             platform:  'darwin/universal'
             os: 'macos-latest'
 
