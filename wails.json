@@ -1,6 +1,6 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
-  "name": "Panzer Marshal",
+  "name": "PanzerMarshal",
   "outputfilename": "PanzerMarshal",
   "wailsjsdir": "./frontend",
   "author": {
@@ -9,7 +9,7 @@
   },
   "Info": {
     "companyName": "",
-    "productName": "Panzer Marshal",
+    "productName": "PanzerMarshal",
     "productVersion": "3.2.14",
     "copyright": "Copyright Nicu Pavel",
     "comments": "Tactical scale World War 2 turn based strategy game, that puts the player in the role of an Axis or Allied army general."
