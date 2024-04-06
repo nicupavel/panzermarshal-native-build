@@ -1,3 +1,5 @@
+[![Build](https://github.com/nicupavel/panzermarshal-native-build/actions/workflows/release.yml/badge.svg)](https://github.com/nicupavel/panzermarshal-native-build/actions/workflows/release.yml)
+
 # Panzer Marshal Native Apps 
 
 ## Building
