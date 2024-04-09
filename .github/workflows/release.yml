@@ -22,10 +22,10 @@ jobs:
         build:
           - name: 'PanzerMarshal_linux_64'
             platform:  'linux/amd64'
-            os: 'ubuntu-latest'
+            os: 'ubuntu-20.04'
           - name: 'PanzerMarshal_win_64'
             platform:  'windows/amd64'
-            os: 'windows-latest'
+            os: 'windows-latest'          
           - name: 'PanzerMarshal'
             platform:  'darwin/universal'
             os: 'macos-latest'
